@@ -1,5 +1,5 @@
 export const listData = [
-  { id: 1, text: 'Texto Um' },
-  { id: 2, text: 'Texto Dois' },
-  { id: 3, text: 'Texto Três' },
+  { cod: 1, name: 'Disciplina 1', ds: '', hr: '' },
+  { cod: 2, name: 'Disciplina 2', ds: '', hr: '' },
+  { cod: 3, name: 'Disciplina 3', ds: '', hr: '' },
 ];
